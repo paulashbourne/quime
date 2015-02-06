@@ -1,1 +1,1 @@
-s='print"s="+repr(s)+";"+s';print"s="+repr(s)+";"+s
+s='print"s="+s+";"+s';print"s='"+s+"';"+s
