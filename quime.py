@@ -1,1 +1,1 @@
-s='s=\'";print""+s+""';b='print"s="+repr(s)+";b="+repr(b)+";"+b';print"s="+repr(s)+";b="+repr(b)+";"+b
+s='print"s="+repr(s)+";"+s';print"s="+repr(s)+";"+s
